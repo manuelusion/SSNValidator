@@ -1,0 +1,15 @@
+C:\Users\manue\source\repos\SSNValidator\SSNValidator\bin\Debug\net6.0\SSNValidator.exe
+C:\Users\manue\source\repos\SSNValidator\SSNValidator\bin\Debug\net6.0\SSNValidator.deps.json
+C:\Users\manue\source\repos\SSNValidator\SSNValidator\bin\Debug\net6.0\SSNValidator.runtimeconfig.json
+C:\Users\manue\source\repos\SSNValidator\SSNValidator\bin\Debug\net6.0\SSNValidator.dll
+C:\Users\manue\source\repos\SSNValidator\SSNValidator\bin\Debug\net6.0\SSNValidator.pdb
+C:\Users\manue\source\repos\SSNValidator\SSNValidator\obj\Debug\net6.0\SSNValidator.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\SSNValidator\SSNValidator\obj\Debug\net6.0\SSNValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\SSNValidator\SSNValidator\obj\Debug\net6.0\SSNValidator.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\SSNValidator\SSNValidator\obj\Debug\net6.0\SSNValidator.AssemblyInfo.cs
+C:\Users\manue\source\repos\SSNValidator\SSNValidator\obj\Debug\net6.0\SSNValidator.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\SSNValidator\SSNValidator\obj\Debug\net6.0\SSNValidator.dll
+C:\Users\manue\source\repos\SSNValidator\SSNValidator\obj\Debug\net6.0\refint\SSNValidator.dll
+C:\Users\manue\source\repos\SSNValidator\SSNValidator\obj\Debug\net6.0\SSNValidator.pdb
+C:\Users\manue\source\repos\SSNValidator\SSNValidator\obj\Debug\net6.0\SSNValidator.genruntimeconfig.cache
+C:\Users\manue\source\repos\SSNValidator\SSNValidator\obj\Debug\net6.0\ref\SSNValidator.dll
