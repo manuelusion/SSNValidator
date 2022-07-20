@@ -17,7 +17,7 @@
 
 # Download
 
-1. git clone https://github.com/SansEkeleton/ids368L-01-1078069.git. 
+1. git clone https://github.com/manuelusion/SSNValidator.git. 
 2. cd "\".
 3. dotnet run "000-125-8588".
 4. Result should show "Valid" or "Invalid".
